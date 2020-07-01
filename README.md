@@ -1,4 +1,4 @@
-# applangaSPM
+# ApplangaSPM
 
 This is a repo containing an experimental Swift package wrapped around the Applanga iOS SDK.
 
