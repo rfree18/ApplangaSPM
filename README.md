@@ -1,4 +1,4 @@
-# ApplangaSPM
+# ApplangaSPM BETA
 
 This is a repo containing a Swift package wrapped around the Applanga iOS SDK (in the form of an XCFramework).
 
